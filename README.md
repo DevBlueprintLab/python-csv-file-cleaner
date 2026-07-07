@@ -11,18 +11,6 @@ The program processes CSV files non-destructively by preserving the original dat
 
 ---
 
-## 🖥️ Pipeline Lifecycle & Live Demo
-
-### Ingestion ➔ Processing ➔ Output
-
-<p align="center">
-  <img src="images/before.png" width="380" alt="Original CSV Dataset" />
-  <img src="images/terminal.png" width="380" alt="CSV Cleaning Process" />
-</p>
-
-<p align="center">
-  <img src="images/after.png" width="765" alt="Cleaned CSV Output" />
-</p>
 
 ---
 
