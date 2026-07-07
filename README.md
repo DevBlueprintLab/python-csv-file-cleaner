@@ -44,3 +44,47 @@ The program processes CSV files non-destructively by preserving the original dat
 * **File Handling:** `pathlib`
 
 ---
+
+## ⚡ Quick Start & Usage
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/DevBlueprintLab/python-csv-file-cleaner.git
+cd python-csv-file-cleaner
+```
+
+### 2. Run the tool
+
+```bash
+python csv_file_cleaner.py
+```
+
+### 3. Execution example
+
+```text
+================
+ CSV Cleaner
+================
+
+Reading and cleaning CSV file...
+Creating cleaned CSV...
+
+---------------
+Cleaning completed successfully!
+---------------
+
+Rows processed: 120
+Rows written: 113
+
+Blank rows removed: 4
+Duplicates removed: 3
+
+✓ Cleaned file saved:
+cleaned_data.csv
+
+✓ Report saved:
+report_data.txt
+```
+
+---
