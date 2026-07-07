@@ -10,6 +10,18 @@ A Python CLI automation tool that cleans and standardizes CSV datasets by removi
 The program processes CSV files non-destructively by preserving the original dataset, creating a cleaned copy, and generating a summary report of all modifications performed during execution.
 
 ---
+## 🖥️ Pipeline Lifecycle & Live Demo
+
+### Ingestion ➔ Processing ➔ Output
+
+<p align="center">
+  <img src="images/before.png" width="380" alt="Original CSV Dataset" />
+  <img src="images/terminal.png" width="380" alt="CSV Cleaning Process" />
+</p>
+
+<p align="center">
+  <img src="images/after.png" width="765" alt="Cleaned CSV Output" />
+</p>
 
 
 ---
