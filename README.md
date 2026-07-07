@@ -88,3 +88,27 @@ report_data.txt
 ```
 
 ---
+## 📁 Project Structure
+
+```text
+python-csv-file-cleaner/
+├── csv_file_cleaner.py      # Main automation script
+├── README.md                # Project documentation
+└── images/
+    ├── before.png
+    ├── terminal.png
+    └── after.png
+```
+
+---
+
+## 🔮 Roadmap & Future Improvements
+
+* Automatic delimiter detection (comma, semicolon, tab)
+* Column-specific cleaning options
+* Preserve capitalization for emails and unique identifiers
+* Export cleaned data directly to Excel
+* Support command-line arguments
+* Add logging and execution history
+
+---
