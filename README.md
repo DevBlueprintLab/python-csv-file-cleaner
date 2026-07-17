@@ -17,7 +17,7 @@ A Python automation tool that cleans CSV datasets by removing blank rows, standa
 </p>
 
 <p align="center">
-  <img src="images/cleaned-csv-output.png" width="765" alt="Cleaned CSV output" />
+  <img src="images/cleaned-csv-output.png" width="600" alt="Cleaned CSV output" />
 </p>
 
 ---
