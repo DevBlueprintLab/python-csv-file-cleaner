@@ -1,0 +1,12 @@
+Name,Age,Email,City
+John smith,25,john@email.com,New York
+
+alice brown,30,alice@email.com,Chicago
+John Smith,25,john@email.com,New York
+,,
+
+bob johnson,,bob@email.com,Los Angeles
+alice Brown,30,alice@email.com,Chicago
+
+emma davis,22,,Miami
+bob johnson,,bob@email.com,Los Angeles
